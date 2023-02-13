@@ -1,3 +1,1 @@
-# advanced-git
-
-Hello from aghil
+Bye world
